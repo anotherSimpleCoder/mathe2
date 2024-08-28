@@ -95,7 +95,8 @@ b) Wir bilden die erste Abbildung der Funktion:
 
 $$g(x)=\sqrt{1-3x} \cdot \sin(x)$$
 $$=(1-3x)^{\frac 1 2}\cdot \sin(x)$$
-$$g'(x)=\frac 1 2(1-3x)^{-\frac 1 2}\cdot\sin(x)+(1-3x)^{\frac 1 2}\cdot\cos(x)$$
+$$g'(x)=\frac 3 2(1-3x)^{-\frac 1 2}\cdot\sin(x)+(1-3x)^{\frac 1 2}\cdot\cos(x)$$
+
 
 c) Wir bilden die erste Abbildung der Funktion:
 
