@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "613d8774911f02bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f86ab6556092e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "597f1be6ea0e19b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blatt 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54d686ebc92146b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Altklausur WS21-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c593f01e29b5e841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blatt 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be9c73a85da41820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blatt 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cdddc90568577f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd94e60f61a1b3ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a2d869c5083e780",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3b7b0c819f901c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32758406645f7010",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15d012c9841f51fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf41a8b16ce0c127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6485752aa3e5a37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blatt 7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed3b5780e0935c57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blatt 7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "647689b8aa8b5b06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e01bd2f651ac1525",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blatt 7.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c593f01e29b5e841",
+  "lastOpenFiles": [
+    "Blatt 4.md",
+    "Blatt 3.md",
+    "assets/Figure_1.png",
+    "Altklausur WS21-22.md",
+    "Altklausur SS22.md",
+    "Altklausur SS22.pdf",
+    "Altklausur WS21-22.pdf",
+    "Blatt 7.md",
+    "Blatt 7.pdf",
+    "Blatt 2.md",
+    "Blatt 6.md",
+    "Pasted image 20240826201011.png",
+    "Blatt 6.pdf",
+    "Blatt 5.md",
+    "Blatt 5.pdf",
+    "Blatt 4.pdf",
+    "Blatt 3.pdf",
+    "Blatt 2.pdf",
+    "Blatt 1.md",
+    "Blatt 1.pdf",
+    "b1.pdf",
+    "graph2.png",
+    "graph3.png"
+  ]
+}
