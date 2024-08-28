@@ -193,10 +193,16 @@ $$=\frac 1 {-\frac 3 2 + \frac 2 2} x^{-\frac 3 2 +1}$$
 $$=\frac 1 {-\frac 1 2} x^{-\frac 1 2}$$
 $$=2x^{-\frac 1 2}$$
 
+
 $$\int 2x\cdot e^{3x^2} dx$$
 $$=\frac 1 3 \int 6x \cdot e^{3x^2} dx$$
-$$=\frac 1 3 (\frac 1 2(e^{3x^2})^2)$$
-$$=\frac 1 6 (e^{3x^2})^2$$
+Wir nutzen nun das Substitutionsverfahren mit $u={3x^2}$:
+$$=\frac 1 3 \int e^u du$$
+$$=\frac 1 3 e^u$$
+
+Wir tun $u$ nun rücksubstituieren und erhalten:
+
+$$\frac 1 3 e^{3x^2}$$
 
 
 b) Gegeben seien die Funktionen 
