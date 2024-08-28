@@ -158,7 +158,7 @@ i) $$f(x) = e^{4x} \cdot \cos(\ln(x))$$
 $$f'(x)=4e^{4x}\cdot\cos(\ln(x)) + e^{4x}\cdot\sin(\ln(x))\cdot\frac 1 x$$
 
 ii) $$g(x)=\frac{4x^3+ax^2}{x^2+a^2}$$
-$$g'(x)=\frac{(12x^2+2ax)(x^2+a^2)-(4x^3+ax^2)(2x+2a)}{(x^2+a^2)}$$
+$$g'(x)=\frac{(12x^2+2ax)(x^2+a^2)-2x(4x^3+ax^2)}{(x^2+a^2)^2}$$
 
 iii) $$h(x)= \sqrt{(x+1)(x+2)} = ((x+1)(x+2))^{\frac 1 2}$$
 $$h'(x)=\frac 1 2((x+1)(x+2))^{-\frac 1 2} ((x+2)(x+1))$$
