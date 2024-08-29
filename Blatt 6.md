@@ -137,7 +137,7 @@ Setzen wir die Ableitungen nun in unser Taylorpolynom ein:
 
 $$\frac{e^{-4\cdot0}}{0!} x⁰+\frac{-4e^{-4\cdot0}}{1!}x+ \frac{16e^{-4\cdot0}}{2!}x² + \frac{-64e^{-4\cdot0}}{3!}x³$$
 $$=1-4x+\frac{16}{2}x²-\frac{64}6x³$$
-$$=1+4x-8x^2-\frac{64}6x³$$
+$$=1-4x+8x^2-\frac{64}6x³$$
 b) Bilden wir nun ein abstrakteres Gesetz für unsere Taylorreihe abhänging der Ableitungsvorschriften von $f$. Bei genauerem Hinschauen, fällt uns folgendes Muster auf:
 
 $$\sum_{k=0}^{\infty} \frac{(-4)^k}{k!} x^k$$
