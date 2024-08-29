@@ -114,13 +114,13 @@ $$=\frac 1 {\frac {5-e}5} = \frac 5 {5-e}$$
 ## Aufgabe 3
 a)
 
-| Funktion  | n-te Ableitung    |
-| --------- | ----------------- |
-| $e^x$     | $e^x$             |
-| $x^n$     | $n \cdot x^{n+1}$ |
-| $x^{n-1}$ | $(n-1)x^{n-2}$    |
-| $e^{2x}$  | $2^ne^{2x}$       |
-|           |                   |
+| Funktion  | n-te Ableitung |
+| --------- | -------------- |
+| $e^x$     | $e^x$          |
+| $x^n$     | $n!$           |
+| $x^{n-1}$ | $0$            |
+| $e^{2x}$  | $2^ne^{2x}$    |
+|           |                |
 
 b) i) Gegeben ist die Funktion:
 $$f(x)=10x^2 \cdot (4x+7)^{20}$$
